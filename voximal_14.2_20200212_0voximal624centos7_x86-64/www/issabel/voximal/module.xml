@@ -1,0 +1,46 @@
+<module>
+	<rawname>voximal</rawname>
+	<name>Voximal</name>
+	<category>Applications</category>
+
+	<!-- embedcategory is used by Issabel PBX to filter menuitems to be displayed
+	     Issabelpbx reads mysql table module_xml id='mod_serialized', to scan
+	     for items, even if module is not installed! 
+             Issabel module pbxadmin  => read  libs/contentIssabelPBX.php     
+	 -->
+        <embedcategory>Voximal</embedcategory>
+	<version>2.11.14.2</version>
+  <publisher>Ulex Innovative Systems</publisher>
+  <license>AGPLv3+</license>
+  <licenselink>www.gnu.org/licenses/agpl-3.0.txt</licenselink>
+	<candisable>yes</candisable>
+	<canuninstall>yes</canuninstall>
+    <info>https://www.voximal.com</info>
+	<changelog>
+		*14.2* Changelog in the module directory.
+	</changelog>
+	<description>
+    Voximal VoiceXML interpreter. It executes VoiceXML services and integrates Text To Speech (TTS) and Voice Recognition (ASR) engines or Cloud services.
+	</description>
+	<attention>
+		This will install our IssabelPBX module to configure the app_voximal module. You can uninstall it whenever you want.
+	</attention>
+	<menuitems>
+	<VOXIMALAPP category="Applications">Voximal Application</VOXIMALAPP>
+        <VOXIMALSettings category="Settings">Voximal Settings</VOXIMALSettings> 
+
+	<!--VOXIMALSetings2 we duplicate, to help to find settings 
+	     will be displayed in Voximal IssabelPBX embedded category --> 
+        <VOXIMALSettings2 category="Voximal">Voximal Settings</VOXIMALSettings2> 
+        
+        <VOXIMALLogFiles category="Reports">Voximal Logs</VOXIMALLogFiles>
+        <VOXIMALStatistics category="Reports">Voximal Statistics</VOXIMALStatistics>
+        <VOXIMALStatus category="Reports">Voximal Status</VOXIMALStatus>
+	</menuitems>
+	<popovers>
+		<voximal>
+			<display>voximalapp</display>
+		</voximal>
+  	</popovers>
+</module>
+

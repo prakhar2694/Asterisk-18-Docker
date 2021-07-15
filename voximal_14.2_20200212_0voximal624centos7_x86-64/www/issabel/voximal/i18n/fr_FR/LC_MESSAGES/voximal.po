@@ -1,0 +1,299 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-10 09:52+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: JYG <jyg@voximal.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+msgid "Released"
+msgstr "Généré"
+
+msgid "Voice Platform"
+msgstr "Platforme Vocale"
+
+msgid "Voximal Settings"
+msgstr "Paramètres Voximal"
+
+msgid "General"
+msgstr "Général"
+
+msgid "License"
+msgstr "Licence"
+
+msgid "Call Test"
+msgstr "Test d'appel"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Discard"
+msgstr "Annuler"
+
+msgid "Add New Application"
+msgstr "Ajouter une application"
+
+msgid "Accounts"
+msgstr "Comptes"
+
+msgid "Editor"
+msgstr "Editeur"
+
+msgid "Voximal Application"
+msgstr "Application Voximal"
+
+msgid "Create Directory"
+msgstr "Créer un répertoire"
+
+msgid "Create File"
+msgstr "Créer un fichier"
+
+msgid "Active VoiceXML interpreter logs."
+msgstr "Activer les traces dde l'interpreteur VoiceXML"
+
+msgid "Active logs from VoiceXML tag &lt;log&gt; in specific log file."
+msgstr "Activer les traces du tag &lt;log&gt; dans un fichier de trace spécifique."
+
+msgid "Active logs to trace all http request treated by VoiceXML interoreter."
+msgstr "Activer les traces des requêtes HTTP traitées par l'interpreteur VoiceXML"
+
+msgid "Cache timeout (s)"
+msgstr "Timeout du cache (s)"
+
+msgid "Define cache size in second."
+msgstr "Défini la taille du cache (en secondes)"
+
+msgid "Record call (bidirectionnal stream).<br><br><b><u>Warning:</u> If you active this option, you need to inform user that his call is recorded!</b>"
+msgstr "Enregistrement des appels, full duplex.<br><br><b><u>Attention:</u> Si vous activez cette option, vous devez informer l'utilisateur qu'il seraenregistré.</b></b>"
+
+msgid "Voximal logs level."
+msgstr "Niveau de trace Voximal"
+
+msgid "WAV default codec"
+msgstr "Codec WAV par défaut"
+
+msgid "Codec type to use for record."
+msgstr "Type de codec pour les enregistrements."
+
+msgid "Sensibility level for record."
+msgstr "Niveau de sensibilité pour le record."
+
+msgid "Threshold"
+msgstr "Seuil"
+
+msgid "Record silence"
+msgstr "Enregistrement des silences"
+
+msgid "Save silence stream in record file."
+msgstr "Enregistre les silences dans le fichier."
+
+msgid "This is the identification key for the IVR."
+msgstr "Code d'identification de l'IVR."
+
+msgid "The IVR can be manage Localy or Remotely."
+msgstr "Affiche si la licence est gérée localement ou à distance."
+
+msgid "WARNING: Your license is invalid. Please check with sales."
+msgstr "ATTENTION: Votre license n'est pas valide. Merci de vérifier avec le service commercial."
+
+msgid "Max sessions"
+msgstr "Nb max de sessions"
+
+msgid "Maximum simultaneous calls."
+msgstr "Nombre maximum d'appels simultanés."
+
+msgid "Key"
+msgstr "Clé"
+
+msgid "Introduce the key value for your license."
+msgstr "Saisir la clé de votre licence."
+
+msgid "License manager status"
+msgstr "Etat du server de licence"
+
+msgid "Directory:"
+msgstr "Répertoire:"
+
+msgid "Rename"
+msgstr "Renommer"
+
+msgid "Check"
+msgstr "Vérifier"
+
+msgid "Insert new name:"
+msgstr "Saisir le nouveau nom:"
+
+msgid "Filename"
+msgstr "Nom de fichier"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Size <small>(bytes)</small>"
+msgstr "Taille <small>octets</small>"
+
+msgid "Date Modified"
+msgstr "Date de modification"
+
+msgid "create"
+msgstr "créer"
+
+msgid "Name for the new folder"
+msgstr "nom du nouveau répertoire"
+
+msgid "Name for the new file"
+msgstr "Nom du nouveau fichier"
+
+msgid "Upload files to current directory"
+msgstr "Charger les fichiers dans le répertoire courant"
+
+msgid "Select files to upload"
+msgstr "Sélectionner les fichiers à uploader"
+
+msgid "Do you really want to delete this"
+msgstr "Souhaitez-vous réellement supprimer ce fichier"
+
+msgid "Editing file"
+msgstr "Editer le fichier"
+
+msgid "Playing file"
+msgstr "Jouer les fichiers"
+
+msgid "The fields marked with * can not be left in blank"
+msgstr "Les champs marqués avec * ne peuvent être vide"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Name for this application"
+msgstr "Nom de l'application"
+
+msgid "{VoiceXML URL} This function indicates the VoiceXML URL of the account."
+msgstr "{VoiceXML URL} Cette fonction indique l'URL du service VXML du compte."
+
+msgid "Select"
+msgstr "Sélectionner"
+
+msgid "Max Sessions"
+msgstr "Nb sessions max"
+
+msgid "Dial Format"
+msgstr "Format Dial"
+
+msgid "Mark"
+msgstr "Mark"
+
+
+msgid "Speech"
+msgstr "Speech"
+
+msgid "Max time (s)"
+msgstr "Temps maximum (s)"
+
+msgid "Vxml parameter"
+msgstr "Paramètres VXML"
+
+msgid "Start delay (ms)"
+msgstr "Délai de démarrage (ms)"
+
+msgid "Save Changes"
+msgstr "Sauvegarder"
+
+msgid "Create"
+msgstr "Créer"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Voximal Log Files"
+msgstr "Fichiers de trace Voximal"
+
+msgid "Show"
+msgstr "Afficher"
+
+
+msgid "Enabled"
+msgstr "Activé"
+
+msgid "Disabled"
+msgstr "Désactivé"
+
+msgid "yes"
+msgstr "oui"
+
+msgid "no"
+msgstr "non"
+
+msgid "Voximal Statistics"
+msgstr "Statistiques Voximal"
+
+msgid "Refresh"
+msgstr "Rafraichir"
+
+msgid "Start module"
+msgstr "Démarrage"
+
+msgid "Start"
+msgstr "Démarrage"
+
+msgid "Reload configuration"
+msgstr "Configuration rechargée"
+
+msgid "Response time"
+msgstr "Temps de réponse"
+
+msgid "response time seams to be high"
+msgstr "le temps de réponse senble être élevé."
+
+msgid "Warning: The session peak attemp max sessions"
+msgstr "Attention: le nombre de sessions maximales a été atteint."
+
+msgid "Pending"
+msgstr "En cours"
+
+msgid "Peak"
+msgstr "Max obtenu"
+
+msgid "Average sessions"
+msgstr "Moyenne"
+
+msgid "Are you sure to switch to remote license"
+msgstr "Etes vous sûr de vouloir configurer la gestion de licence distante"
+
+msgid "Are you sure to switch to local license"
+msgstr "Etes vous sûr de vouloir configurer la gestion de licence locale"
+
+msgid "This page allow you to call your IVR easly to make tests."
+msgstr "Cette page vous permet d'appeler facilement votre IVR Voxibot à des fins de tests."
+
+msgid "You just need to open the followed UDP port number to be able to access you IVR externaly."
+msgstr "Vous avez juste besoin d'ouvrir le port UDP précisé ci-dessous."
+
+msgid "This code is used to generate your local license key. Give it to support with UID to get your license key."
+msgstr "Ce dode est utilisé pour générer votre clé de license. Donner ce code au support ainsi que l'UID pour récupérer votre clé."
+
+msgid "Enter your phone number where you'll make call test.<br>If you set this number, it'll not necessary to enter the PIN.<br>Not mandatory"
+msgstr "Saissez votre numéro de téléphone à partir duquel vous ferez votre test.<br>Si vous renseignez ce nnuméro vous n'aurez pas besoin de saisir le PIN.<br>Optionnel"
+
+msgid "This is your Test Identification Number. This PIN is used to access this IVR when you call the Voximal Test Phone Number +33XXXXXXX."
+msgstr "Ce numéro est votre identifiant de test. Ce PIN est utilisé pour accéder à votre IVR lors d'un appel au numéro de test Voximal +33XXXXXX"
+
+msgid "Enter the UDP port number to use to access to the Call Test Interface.<br>Default value: 4569"
+msgstr "Saisissez le numéro de port UDP pour accéder à l'interface de test d'appel.<br>Valeur par défaut: 4569"
+
+msgid "License is ok"
+msgstr "La licence est valide"
+
+msgid "License state:"
+msgstr "Etat de la licence:"
+
+msgid "Voximal not running"
+msgstr "Les process voximal fonctionnent"
+
+msgid "Voximal is running"
+msgstr "Les process voximal ne fonctionnent pas"
